@@ -60,7 +60,7 @@ def answer_bot(image):
     elif result == [[1]]:
         return 1
 
-
+print(1)
 
 
 
